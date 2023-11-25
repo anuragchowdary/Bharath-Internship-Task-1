@@ -1,0 +1,204 @@
+.about, .about * {
+    box-sizing: border-box;
+    }
+.about {
+   background: #ffffff;
+    width: 1440px;
+    height: 1440px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-1 {
+   width: 1440px;
+    height: 46px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: hidden;
+   }
+   a{
+     color: #000000;
+   }
+
+.portfolio {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Krona One', sans-serif;
+    position: absolute;
+    left: 39px;
+   top: -10px;
+    width: 184px;
+    height: 49px;
+    display: flex;
+   align-items: flex-end;
+   justify-content: flex-start}
+
+.education {
+   background: #ffffff;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    left: 1170px;
+   top: 1px;
+   }
+
+.education2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+    
+   }
+
+.contact {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 138px;
+    height: 45px;
+    position: absolute;
+    left: 1300px;
+   top: 1px;
+   }
+
+.contact2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.skills {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 133px;
+    height: 45px;
+    position: absolute;
+    left: 1037px;
+   top: 1px;
+   }
+
+.skills2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.about2 {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 127px;
+    position: absolute;
+    left: 910px;
+   top: 0px;
+   }
+
+.about3 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+    text-decoration: underline;
+   }
+
+.frame-2 {
+   background: rgba(0, 0, 0, 0.59);
+    width: 1440px;
+    height: 855px;
+    position: absolute;
+    left: 0px;
+   top: 45px;
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+   }
+
+.frame-3 {
+   width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 493px;
+   top: 52px;
+    overflow: hidden;
+   }
+
+.ellipse-1 {
+   background: #d9d9d9;
+    border-radius: 50%;
+    width: 201px;
+    height: 189px;
+    position: absolute;
+    left: 324px;
+   top: 25px;
+   }
+
+.ellipse-2 {
+   background: #d9d9d9;
+    border-radius: 50%;
+    width: 262px;
+    height: 239px;
+    position: absolute;
+    left: 359px;
+   top: 556px;
+    box-shadow: 0px 4px 4px 5px rgba(255, 255, 0, 0.25);
+   }
+
+.polygon-1 {
+   position: absolute;
+    left: 1276px;
+   top: 25px;
+    overflow: visible;
+   }
+
+.hello-i-m-ch-anurag-chowdary-currently-a-student-at-mohan-babu-university-i-have-a-keen-interest-in-web-development-when-i-m-not-coding-you-can-often-find-me-on-the-badminton-court-as-it-s-one-of-my-favorite-hobbies-and-learning-about-new-technologies-is-my-favorite-one-i-m-excited-to-connect-and-share-more-about-my-journey-in-web-development {
+   color: #ffffff;
+    text-align: center;
+    font: 400 35px 'Krona One', sans-serif;
+    position: absolute;
+    left: 556.99px;
+   top: 270.99px;
+    width: 855.01px;
+    height: 390.91px;
+   }
+
+.anurag {
+   border-radius: 79px;
+    width: 452px;
+    height: 452.47px;
+    position: absolute;
+    left: 67px;
+   top: 209.52px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.ch-anurag-chowdary {
+   color: #ffffff;
+    text-align: center;
+    font: 400 30px 'Kumbh Sans', sans-serif;
+    position: absolute;
+    left: 62.8px;
+   top: 719.22px;
+    width: 391.81px;
+    height: 73.19px;
+   }

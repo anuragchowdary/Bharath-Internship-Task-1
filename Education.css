@@ -1,0 +1,219 @@
+education, .education * {
+    box-sizing: border-box;
+    }
+.education {
+   background: #ffffff;
+    width: 1440px;
+    height: 900px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-6 {
+   background: rgba(0, 0, 0, 0.59);
+    width: 1440px;
+    height: 855px;
+    position: absolute;
+    left: 0px;
+   top: 45px;
+    overflow: hidden;
+   }
+
+.ellipse-3 {
+   position: absolute;
+    left: -148px;
+   top: 2.2px;
+    overflow: visible;
+   }
+
+.ellipse-4 {
+   position: absolute;
+    left: 1296.5px;
+   top: 550.68px;
+    overflow: visible;
+   }
+
+.i-did-my-10-th-in-this-school-and-scored-61-2020 {
+   color: #ffffff;
+    text-align: center;
+    font: 700 30px 'Koh Santepheap', sans-serif;
+    position: absolute;
+    left: 711px;
+   top: 217px;
+    width: 467px;
+    height: 130px;
+   }
+
+.i-did-my-inter-in-this-college-and-scored-55-2020-2022 {
+   color: #ffffff;
+    text-align: center;
+    font: 700 30px 'Koh Santepheap', sans-serif;
+    position: absolute;
+    left: 711px;
+   top: 393px;
+    width: 450px;
+    height: 111px;
+   }
+
+.i-am-persuing-my-b-tech-in-cse-in-this-college-2022-2026-tentative {
+   color: #ffffff;
+    text-align: center;
+    font: 700 30px 'Koh Santepheap', sans-serif;
+    position: absolute;
+    left: 711px;
+   top: 570px;
+    width: 466px;
+    height: 123px;
+   }
+
+.mbu {
+   width: 250px;
+    height: 180px;
+    position: absolute;
+    left: 177px;
+   top: 531px;
+   }
+
+.sree-vidhyanikethan {
+   width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 154px;
+   top: 186px;
+   }
+
+.chaitanya {
+   width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 154px;
+   top: 365px;
+   }
+
+.education2 {
+   color: #ffffff;
+    text-align: center;
+    font: 700 45px 'Koh Santepheap', sans-serif;
+    position: absolute;
+    left: 485px;
+   top: 73px;
+    width: 400px;
+    height: 112px;
+   }
+
+.frame-1 {
+   width: 1440px;
+    height: 46px;
+    position: absolute;
+    left: 0px;
+   top: -1px;
+    overflow: hidden;
+   }
+
+.portfolio {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Krona One', sans-serif;
+    position: absolute;
+    left: 38px;
+   top: -10px;
+    width: 184px;
+    height: 49px;
+    display: flex;
+   align-items: flex-end;
+   justify-content: flex-start}
+   
+   a{
+     color:black;
+   }
+
+.about {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 127px;
+    position: absolute;
+    left: 910px;
+   top: 1px;
+   }
+
+.about2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.skills {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 133px;
+    height: 45px;
+    position: absolute;
+    left: 1037px;
+   top: 1px;
+   }
+
+.skills2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.education3 {
+   background: #ffffff;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    left: 1170px;
+   top: 1px;
+   }
+
+.education4 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+    text-decoration: underline;
+   }
+  
+
+.contact {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 137px;
+    height: 45px;
+    position: absolute;
+    left: 1300px;
+   top: 1px;
+   }
+
+.contact2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+

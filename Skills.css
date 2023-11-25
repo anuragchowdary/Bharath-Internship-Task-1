@@ -1,0 +1,254 @@
+.skills, .skills * {
+    box-sizing: border-box;
+    }
+.skills {
+   background: #ffffff;
+    width: 1440px;
+    height: 900px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-1 {
+   width: 1440px;
+    height: 46px;
+    position: absolute;
+    left: 0px;
+   top: -1px;
+    overflow: hidden;
+   }
+
+.portfolio {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Krona One', sans-serif;
+    position: absolute;
+    left: 38px;
+   top: -10px;
+    width: 184px;
+    height: 49px;
+    display: flex;
+   align-items: flex-end;
+   justify-content: flex-start}
+
+.about {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 127px;
+    position: absolute;
+    left: 910px;
+   top: 1px;
+   }
+
+.about2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.skills2 {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 133px;
+    height: 45px;
+    position: absolute;
+    left: 1037px;
+   top: 1px;
+   }
+
+.skills3 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+    text-decoration: underline;
+    
+   }
+   a{
+     color: #000000;
+   }
+
+.education {
+   background: #ffffff;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    left: 1170px;
+   top: 1px;
+   }
+
+.education2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.contact {
+   background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 137px;
+    height: 45px;
+    position: absolute;
+    left: 1300px;
+   top: 1px;
+   }
+
+.contact2 {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Abel', sans-serif;
+    position: relative;
+   }
+
+.frame-6 {
+   background: rgba(0, 0, 0, 0.59);
+    width: 1440px;
+    height: 855px;
+    position: absolute;
+    left: 0px;
+   top: 45px;
+    overflow: hidden;
+   }
+
+.group-14 {
+   position: absolute;
+    left: 572px;
+   top: 619px;
+    overflow: visible;
+   }
+
+.css {
+   color: #ffffff;
+    text-align: center;
+    font: 400 39px 'Kodchasan', sans-serif;
+    position: absolute;
+    left: 571.59px;
+   top: 271.82px;
+    width: 291.12px;
+    height: 108.03px;
+   }
+
+.bootstrap {
+   color: #ffffff;
+    text-align: center;
+    font: 400 39px 'Kodchasan', sans-serif;
+    position: absolute;
+    left: 159.74px;
+   top: 535.28px;
+    width: 291.12px;
+    height: 108.03px;
+   }
+
+.database-management-system-sql {
+   color: #ffffff;
+    text-align: center;
+    font: 400 39px 'Kodchasan', sans-serif;
+    position: absolute;
+    left: 489.8px;
+   top: 511.03px;
+    width: 510.19px;
+    height: 108.03px;
+   }
+
+.js {
+   color: #ffffff;
+    text-align: center;
+    font: 400 39px 'Kodchasan', sans-serif;
+    position: absolute;
+    left: 993px;
+   top: 272px;
+    width: 291.12px;
+    height: 108.03px;
+   }
+
+.group-10 {
+   position: absolute;
+    left: 129px;
+   top: 347.88px;
+    overflow: visible;
+   }
+
+.group-13 {
+   position: absolute;
+    left: 140px;
+   top: 619px;
+    overflow: visible;
+   }
+
+.group-11 {
+   position: absolute;
+    left: 553px;
+   top: 348px;
+    overflow: visible;
+   }
+
+.group-12 {
+   position: absolute;
+    left: 980px;
+   top: 347.88px;
+    overflow: visible;
+   }
+
+.html {
+   color: #ffffff;
+    text-align: center;
+    font: 400 39px 'Kodchasan', sans-serif;
+    position: absolute;
+    left: 156.82px;
+   top: 271.82px;
+    width: 291.12px;
+    height: 108.03px;
+   }
+
+.skills4 {
+   color: #ffffff;
+    text-align: center;
+    font: 700 45px 'Koh Santepheap', sans-serif;
+    position: absolute;
+    left: 441.12px;
+   top: 123px;
+    width: 532.58px;
+    height: 90.39px;
+   }
+
+.ellipse-3 {
+   position: absolute;
+    left: -134.5px;
+   top: 9px;
+    overflow: visible;
+   }
+
+.ellipse-4 {
+   position: absolute;
+    left: 1295px;
+   top: 553.88px;
+    overflow: visible;
+   }
+
+
+
+
+ 

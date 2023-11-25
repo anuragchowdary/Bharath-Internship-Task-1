@@ -1,0 +1,148 @@
+.portfolio {
+    color: #000000;
+     text-align: left;
+     font: 400 28px 'Krona One', sans-serif;
+     position: absolute;
+     left: 39px;
+    top: -10px;
+     width: 184px;
+     height: 49px;
+     display: flex;
+    align-items: flex-end;
+    justify-content: flex-start}
+    a{
+      color:black;
+    }
+ .education {
+    background: #ffffff;
+     padding: 10px;
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+     justify-content: center;
+     width: 130px;
+     height: 45px;
+     position: absolute;
+     left: 1170px;
+    top: 1px;
+    }
+
+ .education2 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Abel', sans-serif;
+     position: relative;
+    }
+
+ .contact {
+    background: #ffffff;
+     padding: 10px 20px 10px 20px;
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+     justify-content: center;
+     width: 138px;
+     height: 45px;
+     position: absolute;
+     left: 1300px;
+    top: 1px;
+    }
+
+ .contact2 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Abel', sans-serif;
+     position: relative;
+     text-decoration: underline;
+    }
+
+ .skills {
+    background: #ffffff;
+     padding: 10px 20px 10px 20px;
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+     justify-content: center;
+     width: 133px;
+     height: 45px;
+     position: absolute;
+     left: 1037px;
+    top: 1px;
+    }
+
+ .skills2 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Abel', sans-serif;
+     position: relative;
+    }
+
+ .about2 {
+    background: #ffffff;
+     padding: 10px 20px 10px 20px;
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+     justify-content: center;
+     width: 127px;
+     position: absolute;
+     left: 910px;
+    top: 0px;
+    }
+
+ .about3 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Abel', sans-serif;
+     position: relative;
+    }
+    .frame-2 {
+    background: rgb(255, 255, 255);
+     width: 1440px;
+     height: 855px;
+     position: absolute;
+     left: 0px;
+    top: 45px;
+    
+     overflow: hidden;
+    }
+
+     
+        .contact-card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            
+        }
+
+        #contact h3 {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+
+        #contact .form-group label {
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+        #contact .form-control {
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        #contact .btn-primary {
+            background-color: #007bff;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: 600;
+            border-radius: 5px;
+        }
